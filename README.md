@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Java, Redux and Laravel.
 - 💞️ I’m looking to collaborate on various Front End projects.
 - 📫 How to reach me: email: jamieedgar02@gmail.com
+- Check out one of the UI sites i made: https://mimimerch.netlify.app/
 
 <!---
 JamesMokua/JamesMokua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
