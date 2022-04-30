@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JamesMokua
-- 👀 I’m interested in becoming a Software Engineer.
+- 👀 I’m interested in becoming a better Software Engineer.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on all things software engineering.
 - 📫 How to reach me: email: jamieedgar02@gmail.com
