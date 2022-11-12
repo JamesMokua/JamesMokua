@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JamesMokua
-- 👀 I’m interested in becoming a better Software Engineer.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in all things software and i also love anime too. :)
+- 🌱 I’m currently learning React Three Fiber.
 - 💞️ I’m looking to collaborate on all things software engineering.
 - 📫 How to reach me: email: jamieedgar02@gmail.com
-- Check out one of the UI sites i made: https://mimimerch.netlify.app/
+- Check out my portfolio website: https://edgarmokua.netlify.app/
 
 <!---
 JamesMokua/JamesMokua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
