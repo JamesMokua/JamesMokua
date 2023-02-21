@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on all things software engineering.
 - 📫 How to reach me: email: jamieedgar02@gmail.com linkedin:https://www.linkedin.com/in/jamesmokua/
 - Check out my portfolio website: https://edgarmokua.netlify.app/
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesMokua&show_icons=true&theme=transparent&count_private=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesMokua&show_icons=true&theme=transparent&count_private=true) -->
 <!---
 JamesMokua/JamesMokua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
